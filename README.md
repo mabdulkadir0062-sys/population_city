@@ -50,4 +50,18 @@
 . Hierarchical visualization
 
 . Size based on population
+
+## 🧠 Skills Demonstrated
+
+### theese skills are :
+
+. Data cleaning and transformation
+
+. Group-by aggregation analysis
+
+. Interactive data visualization
+
+. Casting data types 
+
+. End-to-end analytics workflow
   
