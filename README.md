@@ -105,7 +105,14 @@ density
 . How populations are distributed ?
 
 . Which cities dominate globall ?
-🏁
+## 👤 Author
+
+Junior Data Analyst
+
+Python (Polars) | SQL | visualization (Plotly)
+
+Actively seeking opportunities in Canada with employer sponsorship
+
 
 
 
