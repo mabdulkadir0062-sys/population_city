@@ -86,6 +86,18 @@ the 25M mark
 list's population It visually isolates the United States as the sole non-Asian representative in this global ranking of extreme urban 
 density
 
+✅ Business / Real-World Implications
+Urban planners should focus on high-density cities for infrastructure development
+Businesses can target large population centers for market expansion
+Governments need to manage overcrowding and resource allocation in mega-cities
+Smaller cities may require growth strategies to balance development
+🧾 Conclusion
+This project demonstrates how raw population data can be transformed into meaningful insights about urbanization and global population patterns.
+Through aggregation and visualization, we can better understand:
+Where people live
+How populations are distributed
+Which cities dominate globall
+
 
 
 
