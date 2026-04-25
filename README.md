@@ -2,11 +2,13 @@
 
 ## 📊 Project Overview
 
-### This project analyzes global city population data to identify largest urban centers, population distribution patterns, and geographic concentration of people
+### This project analyzes global city population data to identify largest urban centers, population distribution patterns and geographic
+
+concentration of people
 
 ## 🎯 Business Problem
 
-### Urban population data is critical for governments, urban planners, and businesses. However, raw data alone doesn’t answer key questions:
+### Urban population data is critical for governments, urban planners, and businesses However raw data alone doesn’t answer key questions:
 
 . Which cities have the largest populations?
 
@@ -69,9 +71,26 @@
 
 ### 1. Top 10 Cities by Population
 
-. The bar chart highlights Tokyo’s massive lead as the world's most populous city, being 62% larger than New York City. It reveals a highly competitive top tier where Delhi and Jakarta maintain nearly identical population levels.
-Treemap Summary
-​The treemap shifts focus to national scale, showing that China dominates the landscape with three cities totaling over 30% of the entire list's population. It visually isolates the United States as the sole non-Asian representative in this global ranking of extreme urban density.The chart reveals a heavy concentration of cities in the lower population bracket, with the vast majority falling below 10M residents. Asia dominates every population tier, consistently outnumbering all other continents and representing the only region with cities exceeding the 25M mark.
+. The bar chart highlights Tokyo’s massive lead as the world's most populous city being 62% larger than New York City 
+
+. It reveals a highly competitive top tier where Delhi and Jakarta maintain nearly identical population levels
+
+### 2. Distribution of City Populations
+
+​. The chart reveals a heavy concentration of cities in the lower population bracket with the vast majority falling below 10M residents
+
+Asia dominates every population tier consistently outnumbering all other continents and representing the only region with cities exceeding
+
+the 25M mark
+
+### Hierarchchical View of Population by Country and City
+
+. The treemap shifts focus to national scale showing that China dominates the landscape with three cities totaling over 30% of the entire
+
+list's population It visually isolates the United States as the sole non-Asian representative in this global ranking of extreme urban 
+
+density
+
 
 
 
