@@ -100,11 +100,11 @@ density
 
 ### This project demonstrates :
 
-. Where people live
+. Where people live ?
 
-. How populations are distributed
+. How populations are distributed ?
 
-. Which cities dominate globall
+. Which cities dominate globall ?
 
 
 
