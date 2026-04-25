@@ -28,7 +28,26 @@
 
 - null_count()
 
-  . Casted "Population" from str to int
+. Casted "Population" from str to int
   
-  . Exported a cleaned version of the dataset for reproducibility
+   . Exported a cleaned version of the dataset for reproducibility
+
+   ## 📊 Visualizations
+
+ ### Top 10 Cities by Population
+   
+. Bar chart ranking largest cities
+. Color-coded by country
+
+### Population Distribution
+
+. Histogram showing distribution of city populations
+
+. Segmented by continent
+
+### Population Hierarchy
+
+. Hierarchical visualization
+
+. Size based on population
   
