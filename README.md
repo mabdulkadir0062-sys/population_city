@@ -86,9 +86,7 @@ the 25M mark
 ### Hierarchchical View of Population by Country and City
 
 . The treemap shifts focus to national scale showing that China dominates the landscape with three cities totaling over 30% of the entire
-
 list's population It visually isolates the United States as the sole non-Asian representative in this global ranking of extreme urban 
-
 density
 
 
